@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BallsackBilly
+- 👀 I’m interested in InfoSec
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python, Cybersecurity, Infosec
+- 📫 How to reach me 
